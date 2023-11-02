@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\raphael\\tpsproject_5_1\\intermediate\\build\\win64\\unrealeditor\\inc\\tpsproject_5_1\\uht\\tpsproject_5_1gamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\raphael\\tpsproject_5_1\\intermediate\\build\\win64\\tpsproject_5_1editor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\raphael\\tpsproject_5_1\\intermediate\\build\\win64\\unrealeditor\\debuggame\\tpsproject_5_1\\definitions.tpsproject_5_1.h",
+            "d:\\raphael\\tpsproject_5_1\\source\\tpsproject_5_1\\tpsproject_5_1gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\raphael\\tpsproject_5_1\\intermediate\\build\\win64\\unrealeditor\\inc\\tpsproject_5_1\\uht\\tpsproject_5_1gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

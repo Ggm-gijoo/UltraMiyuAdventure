@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\raphael\\tpsproject_5_1\\intermediate\\build\\win64\\unrealeditor\\inc\\tpsproject_5_1\\uht\\characteranim.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\raphael\\tpsproject_5_1\\intermediate\\build\\win64\\tpsproject_5_1editor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\raphael\\tpsproject_5_1\\intermediate\\build\\win64\\unrealeditor\\debuggame\\tpsproject_5_1\\definitions.tpsproject_5_1.h",
+            "d:\\raphael\\tpsproject_5_1\\source\\tpsproject_5_1\\private\\characteranim.h",
+            "d:\\raphael\\tpsproject_5_1\\intermediate\\build\\win64\\unrealeditor\\inc\\tpsproject_5_1\\uht\\characteranim.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

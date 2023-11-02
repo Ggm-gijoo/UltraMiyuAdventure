@@ -1,4 +1,7 @@
 # Visual Studio 2015 user specific files
+Intermediate/*
+Saved/*
+
 .vs/
 
 # Compiled Object files

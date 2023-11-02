@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TPSProject_5_1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\TPSProject_5_1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\Bullet.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\CharacterAnim.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\Enemy.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\EnemyAnim.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\EnemyFSM.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\TPSCharacter.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\TPSProject_5_1.init.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\TPSProject_5_1GameModeBase.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\TPSProject_5_1.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\TPSProject_5_1GameModeBase.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\Bullet.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\CharacterAnim.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\Enemy.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\EnemyAnim.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\EnemyFSM.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\TPSCharacter.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\Default.rc2.res"
+/OUT:"C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\UnrealEditor-TPSProject_5_1.lib"

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\tpsproject_5_1\\source\\tpsproject_5_1\\private\\bullet.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\tpsproject_5_1\\intermediate\\build\\win64\\tpsproject_5_1editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\tpsproject_5_1\\intermediate\\build\\win64\\unrealeditor\\development\\tpsproject_5_1\\definitions.tpsproject_5_1.h",
+            "c:\\users\\user\\documents\\unreal projects\\tpsproject_5_1\\source\\tpsproject_5_1\\private\\bullet.h",
+            "c:\\users\\user\\documents\\unreal projects\\tpsproject_5_1\\intermediate\\build\\win64\\unrealeditor\\inc\\tpsproject_5_1\\uht\\bullet.generated.h",
+            "c:\\program files\\unreal\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\unreal\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\unreal\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\unreal\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\program files\\unreal\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\unreal\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\unreal\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\unreal\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

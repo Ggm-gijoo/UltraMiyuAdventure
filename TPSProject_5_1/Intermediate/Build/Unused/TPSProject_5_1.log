@@ -1,0 +1,24 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" TPSProject_5_1Editor Win64 Development -Project="C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\TPSProject_5_1.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\USER\AppData\Local\UnrealBuildTool\Log.txt
+  Building TPSProject_5_1Editor...
+  Using Visual Studio 2022 14.33.31631 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 7.48 GB available: limiting max parallel actions to 4
+  Building 12 actions with 4 processes...
+  [1/12] Compile EnemyFSM.gen.cpp
+  [2/12] Compile EnemyAnim.gen.cpp
+  [3/12] Compile TPSProject_5_1.init.gen.cpp
+  [4/12] Compile EnemyAnim.cpp
+  [5/12] Compile EnemyFSM.cpp
+  [6/12] Compile Enemy.cpp
+  [7/12] Compile TPSCharacter.gen.cpp
+  [8/12] Compile CharacterAnim.cpp
+  [9/12] Compile TPSCharacter.cpp
+  [10/12] Link UnrealEditor-TPSProject_5_1.lib
+     C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\UnrealEditor-TPSProject_5_1.lib 라이브러리 및 C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\UnrealEditor-TPSProject_5_1.exp 개체를 생성하고 있습니다.
+  [11/12] Link UnrealEditor-TPSProject_5_1.dll
+     C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\UnrealEditor-TPSProject_5_1.suppressed.lib 라이브러리 및 C:\Users\USER\Documents\Unreal Projects\TPSProject_5_1\Intermediate\Build\Win64\UnrealEditor\Development\TPSProject_5_1\UnrealEditor-TPSProject_5_1.suppressed.exp 개체를 생성하고 있습니다.
+  [12/12] WriteMetadata TPSProject_5_1Editor.target
+  Total time in Parallel executor: 18.94 seconds
+  Total execution time: 20.08 seconds
